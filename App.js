@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // const heading = React.createElement("h1", {id:"heading"}, "Welcome to React by react!");
 // reactelement is an object and becomes a html for browser to understand
 const parent = React.createElement(
